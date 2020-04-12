@@ -1,6 +1,7 @@
 <div style="text-align: center ">
 # Why Designing Transparent AI Matters?
 </div>
+
 <div style="text-align: center ">
 ## Building a fair algorithm in an unfair society
 </div>
@@ -8,6 +9,7 @@
 <div style="text-align: justify ">
  
 **Abstract**: Although Artificial Intelligence (AI) has proven to have great potential in many industrial applications [1]–[3], research lacks sufficient methods to adequately interpret and decode the internal logic of such high performing algorithms [4]. Highly performing algorithms suffer from the black-box phenomenon where the calculations cannot be validated, and the methodology behind the algorithm cannot be verified [5]. This poses several ethical challenges since such systems can reflect or amplify the existing biases of its implementers and the dataset leading to discrimination against minorities and may repel society from using such promising technologies. In this article, we argue that using AI technology without the appropriate assessment and understanding of how it arrives at its decisions outweighs the benefits and can harm the individuals and society.
+</div>
 
 **Background**:
  
