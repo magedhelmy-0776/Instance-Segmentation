@@ -1,10 +1,6 @@
-<div style="text-align: center ">
 # Why Designing Transparent AI Matters?
-</div>
 
-<div style="text-align: center ">
 ## Building a fair algorithm in an unfair society
-</div>
 
 <div style="text-align: justify ">
  
@@ -12,14 +8,20 @@
 </div>
 
 **Background**:
- 
+
+<div style="text-align: justify ">
 Deep Neural Networks (DNN), which are a subset of AI, is behind the majority of the recent successes in AI [6]. DNN can outperform a human expert in an infinitely large amount of datasets and can make more informed decisions in a shorter period [7]. For example, a DNN that is trained to diagnose cancer can be more accurate and faster than a radiologist with a Ph.D. [8]. However, these algorithms are highly complex, where the relationship between the data (input) and the conclusion (output) is uninterpretable [9]. Such algorithms pose an ethical challenge since they may inherit biases from human prejudices, which can lead to unfair decisions [5]. In light of this ethical challenge, we will present some examples of ethical dilemmas that may arise from using such high performing black box AI-based systems in decision-making processes that can have a significant impact on an individual’s human rights.
+</div>
 
 *I. Interpretability in AI*
 
+<div style="text-align: justify ">
 An interpretable AI is an algorithm that can be explainable by its implementers to society and individuals (i.e., regulatory, customers, employees). For instance, the algorithmic patterns of how the conclusion has been reached are calculable and verifiable. Many high performing DNNs are not able to present the logic of the outcome due to the depth of the networks, and trying to simplify the network to gain interpretability will significantly reduce accuracy [10]. Furthermore, an interpretable algorithm will allow audibility where an algorithm can be reviewed, tested, and refined to reflect the moral codes and principles of society. However, the literature proves that auditable algorithms have reduced performance and, in many cases, minimal functionalities [11]–[13]. Some examples of commonly used algorithms where performance and interpretability correlates are GoogLeNet [14] with 6.7 million parameters and VGGNet [15] with 138 million parameters. Therefore, an ethical dilemma is using these deep neural networks that are capable of highly sophisticated functionalities like analyzing video, audio, and texts in an uninterpretable manner, versus using an interpretable algorithm with minimal functionally and low accuracy. How much accuracy and features are we willing to sacrifice to satisfy the transparency dilemma?
+</div>
 
+<div style="text-align: justify ">
 An example of highly opaque DNNs that has significantly increased the safety of the roads is Tesla’s autopilot system (TAS) [16]. TAS crowdsources different types of structured and unstructured data from its cars and combines them using highly deep learning algorithms [17], making it the car with the lowest probability of injury [18]. Another example of high performing but opaque systems are the AI’s algorithms deployed in smart homes. Similar to Tesla’s autopilot; it combines sensor data using deep learning algorithms to arguably increase the quality of life in homes for senior citizens and persons with disabilities [19]–[22]. 
+</div>
 
 However, not all high performing algorithms have been transformative. An example where an interpretable algorithm could have prevented an erroneous mistake was Microsoft AI chatbot Tay which was shut down 16 hours after launch as it turned into a Hitler-loving sex robot [23]. Another dilemma in the medical world is when the tissues of a healthy-looking man are flagged as cancerous to the algorithm. Although the prediction happened to be accurate since the algorithm has learned from the data of previous patients, it could not explain how it arrived to this conclusion. This leaves the doctor and the patient with a severe dilemma since it will be hard to come up with a preventive measure without knowing what the risk factors are. 
 
