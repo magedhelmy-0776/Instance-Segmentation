@@ -1,8 +1,9 @@
 # Why Designing Transparent AI Matters?
 ## Building a fair algorithm in an unfair society
 
+<div style="text-align: justify "> your-text-here
 **Abstract**: Although Artificial Intelligence (AI) has proven to have great potential in many industrial applications [1]–[3], research lacks sufficient methods to adequately interpret and decode the internal logic of such high performing algorithms [4]. Highly performing algorithms suffer from the black-box phenomenon where the calculations cannot be validated, and the methodology behind the algorithm cannot be verified [5]. This poses several ethical challenges since such systems can reflect or amplify the existing biases of its implementers and the dataset leading to discrimination against minorities and may repel society from using such promising technologies. In this article, we argue that using AI technology without the appropriate assessment and understanding of how it arrives at its decisions outweighs the benefits and can harm the individuals and society.
-
+ </div>
 
 **Background**:
  
@@ -134,9 +135,9 @@ Since the current high performing algorithm is not capable of satisfying the soc
 
 ### Get in Touch
 
-To contribute, simple create a pull request on the Github page! :) 
+To contribute, simple create a pull request on the Github page! :)  \
 Feel free to get in touch anywhere, anytime !
 
-LinkedIn: https://www.linkedin.com/in/helmy47/
-Email: maged.helmy1@outlook.com
-Webpage-link: https://magedhelmy-0776.github.io/transparent-ai/
+LinkedIn: https://www.linkedin.com/in/helmy47/ \
+Email: maged.helmy1@outlook.com \
+Webpage-link: https://magedhelmy-0776.github.io/transparent-ai/ \
