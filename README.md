@@ -2,7 +2,7 @@
 
 ## Building a fair algorithm in an unfair society  <br/>
 
- 
+
 **Abstract**: 
 <div style="text-align: justify ">
 Although Artificial Intelligence (AI) has proven to have great potential in many industrial applications [1]–[3], research lacks sufficient methods to adequately interpret and decode the internal logic of such high performing algorithms [4]. Highly performing algorithms suffer from the black-box phenomenon where the calculations cannot be validated, and the methodology behind the algorithm cannot be verified [5]. This poses several ethical challenges since such systems can reflect or amplify the existing biases of its implementers and the dataset leading to discrimination against minorities and may repel society from using such promising technologies. In this article, we argue that using AI technology without the appropriate assessment and understanding of how it arrives at its decisions outweighs the benefits and can harm the individuals and society.
@@ -11,7 +11,7 @@ Although Artificial Intelligence (AI) has proven to have great potential in many
 
 <div style="text-align: justify ">
 Deep Neural Networks (DNN), which are a subset of AI, is behind the majority of the recent successes in AI [6]. DNN can outperform a human expert in an infinitely large amount of datasets and can make more informed decisions in a shorter period [7]. For example, a DNN that is trained to diagnose cancer can be more accurate and faster than a radiologist with a Ph.D. [8]. However, these algorithms are highly complex, where the relationship between the data (input) and the conclusion (output) is uninterpretable [9]. Such algorithms pose an ethical challenge since they may inherit biases from human prejudices, which can lead to unfair decisions [5]. In light of this ethical challenge, we will present some examples of ethical dilemmas that may arise from using such high performing black box AI-based systems in decision-making processes that can have a significant impact on an individual’s human rights.
-</div>  <br/>
+</div>
 *I. Interpretability in AI*
 
 <div style="text-align: justify ">
