@@ -78,7 +78,7 @@ Feel free to get in touch anywhere, anytime ! <br/>
 ### Top contributors to this article
 
 - Maged Helmy
-/n/n
+
 
 
 To contribute, simple create a pull request on the Github page! :) 
