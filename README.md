@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Why Designing Transparent AI Matters?
 
-You can use the [editor on GitHub](https://github.com/magedhelmy-0776/Instance-Segmentation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Webpage-link: https://magedhelmy-0776.github.io/transparent-ai/
+LinkedIn: https://www.linkedin.com/in/helmy47/
+Email: maged.helmy1@outlook.com
 
 ### Markdown
 
