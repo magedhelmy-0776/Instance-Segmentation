@@ -1,6 +1,7 @@
-# Why Designing Transparent AI Matters?  <br/>
-
-## Building a fair algorithm in an unfair society  <br/>
+# Why Designing Transparent AI Matters?
+<br/>
+## Building a fair algorithm in an unfair society  
+<br/>
 
 
 **Abstract**: 
@@ -76,7 +77,7 @@ Feel free to get in touch anywhere, anytime ! <br/>
 
 ### Top contributors to this article
 
-⋅⋅* Maged Helmy  <br/>
+1.  Maged Helmy  <br/>
 To contribute, simple create a pull request on the Github page! :) 
 
 
