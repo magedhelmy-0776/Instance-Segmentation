@@ -84,4 +84,4 @@ Feel free to get in touch anywhere, anytime ! <br/>
 To contribute, simple create a pull request on the Github page! :) 
 
 
-[References are here:] (https://github.com/magedhelmy-0776/Transparent-AI/blob/master/Reference%20List)
+[References are here:] (https://github.com/magedhelmy1/Transparent-AI/blob/master/Reference%20List)
