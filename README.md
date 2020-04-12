@@ -1,9 +1,8 @@
 # Why Designing Transparent AI Matters?
 ## Building a fair algorithm in an unfair society
 
-<div style="text-align: justify "> your-text-here
+<div style="text-align: justify ">
 **Abstract**: Although Artificial Intelligence (AI) has proven to have great potential in many industrial applications [1]–[3], research lacks sufficient methods to adequately interpret and decode the internal logic of such high performing algorithms [4]. Highly performing algorithms suffer from the black-box phenomenon where the calculations cannot be validated, and the methodology behind the algorithm cannot be verified [5]. This poses several ethical challenges since such systems can reflect or amplify the existing biases of its implementers and the dataset leading to discrimination against minorities and may repel society from using such promising technologies. In this article, we argue that using AI technology without the appropriate assessment and understanding of how it arrives at its decisions outweighs the benefits and can harm the individuals and society.
- </div>
 
 **Background**:
  
@@ -50,6 +49,7 @@ In this article, we have presented some examples where a high performing algorit
 It is essential to highlight that the current solutions provided by the tech industries to deal with the black box phenomena addresses the symptoms but not the issue directly. Moreover, due to the tradition of how the industry is built, companies argue that the trade secrets will be lost if algorithms are made available for the public to scrutinize. However, it is essential to note that current regulations do not allow the deploying or usage of such high performing algorithms as it has proven to be discriminant and sexist. Therefore, at the current stage, an acceptable AI will be a transparent, interpretable, and auditable AI. 
 
 Since the current high performing algorithm is not capable of satisfying the social and judicial expectations, a ‘watered-down’ transparent version of AI can be implemented. Algorithms transparency and accountability must be high on the agenda of AI implementers as it is the only way to gain a competitive advantage when the regulations come into force. AI implementers should understand that technologies should be made to combat discrimination and injustice and not merely reinforce human prejudices and social unfairness. 
+ </div>
 
 **References:**
 
@@ -135,9 +135,9 @@ Since the current high performing algorithm is not capable of satisfying the soc
 
 ### Get in Touch
 
-To contribute, simple create a pull request on the Github page! :)  \
+To contribute, simple create a pull request on the Github page! :)  <br/>
 Feel free to get in touch anywhere, anytime !
 
-LinkedIn: https://www.linkedin.com/in/helmy47/ \
-Email: maged.helmy1@outlook.com \
-Webpage-link: https://magedhelmy-0776.github.io/transparent-ai/ \
+LinkedIn: https://www.linkedin.com/in/helmy47/ <br/>
+Email: maged.helmy1@outlook.com <br/>
+Webpage-link: https://magedhelmy-0776.github.io/transparent-ai/ <br/>
