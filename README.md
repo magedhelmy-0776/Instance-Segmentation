@@ -65,7 +65,18 @@ In this article, we have presented some examples where a high performing algorit
 It is essential to highlight that the current solutions provided by the tech industries to deal with the black box phenomena addresses the symptoms but not the issue directly. Moreover, due to the tradition of how the industry is built, companies argue that the trade secrets will be lost if algorithms are made available for the public to scrutinize. However, it is essential to note that current regulations do not allow the deploying or usage of such high performing algorithms as it has proven to be discriminant and sexist. Therefore, at the current stage, an acceptable AI will be a transparent, interpretable, and auditable AI. 
 
 Since the current high performing algorithm is not capable of satisfying the social and judicial expectations, a ‘watered-down’ transparent version of AI can be implemented. Algorithms transparency and accountability must be high on the agenda of AI implementers as it is the only way to gain a competitive advantage when the regulations come into force. AI implementers should understand that technologies should be made to combat discrimination and injustice and not merely reinforce human prejudices and social unfairness. 
- </div>
+
+
+### Get in Touch
+
+Feel free to get in touch anywhere, anytime ! <br/>
+[LinkedIn](https://www.linkedin.com/in/helmy47/) or Email me directly maged.helmy1@outlook.com <br/>
+
+### Top contributors to this article
+
+⋅⋅* Maged Helmy  <br/>
+To contribute, simple create a pull request on the Github page! :) 
+
 
 **References:**
 
@@ -148,17 +159,4 @@ Since the current high performing algorithm is not capable of satisfying the soc
 [39]	G. Ferreira, “Software Certification in Practice: How Are Standards Being Applied?,” in 2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C), 2017, pp. 100–102.
 
 [40]	P. Heck, M. Klabbers, and M. van Eekelen, “A software product certification model,” Software Quality Journal, vol. 18, no. 1, p. 37, Jun. 2009.
-
-### Get in Touch
-
-Feel free to get in touch anywhere, anytime !
-
-[LinkedIn](https://www.linkedin.com/in/helmy47/) or  <br/>
-Email: maged.helmy1@outlook.com <br/>
-
-### Top contributors to this article
-
-⋅⋅* Maged Helmy
-
-To contribute, simple create a pull request on the Github page! :)  <br/>
 
