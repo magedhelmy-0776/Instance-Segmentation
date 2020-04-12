@@ -2,10 +2,11 @@
 
 ## Building a fair algorithm in an unfair society
 
-<div style="text-align: justify ">
  
-**Abstract**: Although Artificial Intelligence (AI) has proven to have great potential in many industrial applications [1]–[3], research lacks sufficient methods to adequately interpret and decode the internal logic of such high performing algorithms [4]. Highly performing algorithms suffer from the black-box phenomenon where the calculations cannot be validated, and the methodology behind the algorithm cannot be verified [5]. This poses several ethical challenges since such systems can reflect or amplify the existing biases of its implementers and the dataset leading to discrimination against minorities and may repel society from using such promising technologies. In this article, we argue that using AI technology without the appropriate assessment and understanding of how it arrives at its decisions outweighs the benefits and can harm the individuals and society.
+**Abstract**: <div style="text-align: justify ">
+Although Artificial Intelligence (AI) has proven to have great potential in many industrial applications [1]–[3], research lacks sufficient methods to adequately interpret and decode the internal logic of such high performing algorithms [4]. Highly performing algorithms suffer from the black-box phenomenon where the calculations cannot be validated, and the methodology behind the algorithm cannot be verified [5]. This poses several ethical challenges since such systems can reflect or amplify the existing biases of its implementers and the dataset leading to discrimination against minorities and may repel society from using such promising technologies. In this article, we argue that using AI technology without the appropriate assessment and understanding of how it arrives at its decisions outweighs the benefits and can harm the individuals and society.
 </div>
+
 
 **Background**:
 
@@ -19,11 +20,15 @@ Deep Neural Networks (DNN), which are a subset of AI, is behind the majority of 
 An interpretable AI is an algorithm that can be explainable by its implementers to society and individuals (i.e., regulatory, customers, employees). For instance, the algorithmic patterns of how the conclusion has been reached are calculable and verifiable. Many high performing DNNs are not able to present the logic of the outcome due to the depth of the networks, and trying to simplify the network to gain interpretability will significantly reduce accuracy [10]. Furthermore, an interpretable algorithm will allow audibility where an algorithm can be reviewed, tested, and refined to reflect the moral codes and principles of society. However, the literature proves that auditable algorithms have reduced performance and, in many cases, minimal functionalities [11]–[13]. Some examples of commonly used algorithms where performance and interpretability correlates are GoogLeNet [14] with 6.7 million parameters and VGGNet [15] with 138 million parameters. Therefore, an ethical dilemma is using these deep neural networks that are capable of highly sophisticated functionalities like analyzing video, audio, and texts in an uninterpretable manner, versus using an interpretable algorithm with minimal functionally and low accuracy. How much accuracy and features are we willing to sacrifice to satisfy the transparency dilemma?
 </div>
 
+
 <div style="text-align: justify ">
 An example of highly opaque DNNs that has significantly increased the safety of the roads is Tesla’s autopilot system (TAS) [16]. TAS crowdsources different types of structured and unstructured data from its cars and combines them using highly deep learning algorithms [17], making it the car with the lowest probability of injury [18]. Another example of high performing but opaque systems are the AI’s algorithms deployed in smart homes. Similar to Tesla’s autopilot; it combines sensor data using deep learning algorithms to arguably increase the quality of life in homes for senior citizens and persons with disabilities [19]–[22]. 
 </div>
 
+<div style="text-align: justify ">
 However, not all high performing algorithms have been transformative. An example where an interpretable algorithm could have prevented an erroneous mistake was Microsoft AI chatbot Tay which was shut down 16 hours after launch as it turned into a Hitler-loving sex robot [23]. Another dilemma in the medical world is when the tissues of a healthy-looking man are flagged as cancerous to the algorithm. Although the prediction happened to be accurate since the algorithm has learned from the data of previous patients, it could not explain how it arrived to this conclusion. This leaves the doctor and the patient with a severe dilemma since it will be hard to come up with a preventive measure without knowing what the risk factors are. 
+</div>
+
 
 Few examples where auditability matters are COMPAS [24], which is used by the U.S. courts where the algorithm is discriminant against minorities based on an ethnic prejudice in the input dataset. Another example is the algorithm used by the United States Immigration and Customs Enforcement (ICE). A risk-assessment on ICE revealed that the algorithm was manipulated to produce only one recommendation, “..detain..” all immigrants in custody [25]. Last but not least, Amazon recruiting tool [26] preferred male software developers over females due to the dataset reflecting male dominance in the tech industry. 
 
@@ -144,9 +149,14 @@ Since the current high performing algorithm is not capable of satisfying the soc
 
 ### Get in Touch
 
-To contribute, simple create a pull request on the Github page! :)  <br/>
 Feel free to get in touch anywhere, anytime !
 
-LinkedIn: https://www.linkedin.com/in/helmy47/ <br/>
+[LinkedIn](https://www.linkedin.com/in/helmy47/) or  <br/>
 Email: maged.helmy1@outlook.com <br/>
-Webpage-link: https://magedhelmy-0776.github.io/transparent-ai/ <br/>
+
+### Top contributors to this article
+
+⋅⋅* Maged Helmy
+
+To contribute, simple create a pull request on the Github page! :)  <br/>
+
