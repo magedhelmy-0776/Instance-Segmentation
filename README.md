@@ -53,55 +53,90 @@ Since the current high performing algorithm is not capable of satisfying the soc
 **References:**
 
 [1]	M. Purdy and P. Daugherty, “How AI boosts industry profits and innovation,” Accenture. Frey, C, 2017.
+
 [2]	P. Stone et al., “Artificial Intelligence and Life in 2030. One hundred year study on artificial intelligence: Report of the 2015-2016 Study Panel,” Stanford University, Stanford, CA, http://ai100. stanford. edu/2016-report. Accessed: September, vol. 6, p. 2016, 2016.
+
 [3]	M. Chui et al., “Notes from the AI frontier: Insights from hundreds of use cases,” McKinsey Global Institute (Retrieved from McKinsey online database), 2018.
+
 [4]	A. Adadi and M. Berrada, “Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI),” IEEE Access, vol. 6, pp. 52138–52160, 2018.
+
 [5]	R. Guidotti, A. Monreale, S. Ruggieri, F. Turini, F. Giannotti, and D. Pedreschi, “A Survey of Methods for Explaining Black Box Models,” ACM Comput. Surv., vol. 51, no. 5, pp. 93:1–93:42, Aug. 2018.
+
 [6]	J. Schmidt, M. R. G. Marques, S. Botti, and M. A. L. Marques, “Recent advances and applications of machine learning in solid-state materials science,” npj Computational Materials, vol. 5, no. 1, p. 83, Aug. 2019.
+
 [7]	M. Ide, “Human-Machine Work Teams,” Medium, 05-Jun-2018. [Online]. Available: https://medium.com/mit-initiative-on-the-digital-economy/human-machine-work-teams-2ecd8f71fd5b. [Accessed: 14-Dec-2019].
+
 [8]	K. Hume, Designing AI to Make Decisions. 2018.
+
 [9]	G. B. Goh, C. Siegel, A. Vishnu, N. Hodas, and N. Baker, “How Much Chemistry Does a Deep Neural Network Need to Know to Make Accurate Predictions?,” in 2018 IEEE Winter Conference on Applications of Computer Vision (WACV), 2018, pp. 1340–1349.
+
 [10]	H. Mhaskar, Q. Liao, and T. Poggio, “When and why are deep networks better than shallow ones?,” in Thirty-First AAAI Conference on Artificial Intelligence, 2017.
+
 [11]	M. Ananny and K. Crawford, “Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability,” New Media & Society, vol. 20, no. 3, pp. 973–989, Mar. 2018.
+
 [12]	M. L. Jones, “The right to a human in the loop: Political constructions of computer automation and personhood,” Soc. Stud. Sci., vol. 47, no. 2, pp. 216–239, Apr. 2017.
+
 [13]	J. A. Kroll, S. Barocas, E. W. Felten, J. R. Reidenberg, D. G. Robinson, and H. Yu, “Accountable algorithms,” Univ. PA Law Rev., vol. 165, p. 633, 2016.
+
 [14]	C. Szegedy et al., “Going deeper with convolutions,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 2015, pp. 1–9.
+
 [15]	K. Simonyan and A. Zisserman, “Very Deep Convolutional Networks for Large-Scale Image Recognition,” arXiv [cs.CV], 04-Sep-2014.
+
 [16]	“Autopilot.” [Online]. Available: https://www.tesla.com/sv_SE/autopilot. [Accessed: 20-Dec-2019].
+
 [17]	K. Pei, Y. Cao, J. Yang, and S. Jana, “DeepXplore: Automated Whitebox Testing of Deep Learning Systems,” in Proceedings of the 26th Symposium on Operating Systems Principles, Shanghai, China, 2017, pp. 1–18.
+
 [18]	“Tesla Vehicle Safety Report,” 08-Jan-2019. [Online]. Available: https://www.tesla.com/VehicleSafetyReport?redirect=no. [Accessed: 16-Dec-2019].
+
 [19]	U. Cortés et al., “Assistive technologies for the disabled and for the new generation of senior citizens: the e-Tools architecture,” AI Commun., vol. 16, no. 3, pp. 193–207, 2003.
+
 [20]	M. E. Pollack, “Intelligent technology for an aging population: The use of AI to assist elders with cognitive impairment,” AI magazine, vol. 26, no. 2, pp. 9–9, 2005.
+
 [21]	H. R. Marston and J. Samuels, “A Review of Age Friendly Virtual Assistive Technologies and their Effect on Daily Living for Carers and Dependent Adults,” Healthcare (Basel), vol. 7, no. 1, Mar. 2019.
+
 [22]	X. Guo, Z. Shen, Y. Zhang, and T. Wu, “Review on the Application of Artificial Intelligence in Smart Homes,” Smart Cities, vol. 2, no. 3, pp. 402–420, Aug. 2019.
+
 [23]	E. Hunt, “Tay, Microsoft’s AI chatbot, gets a crash course in racism from Twitter,” The Guardian, 24-Mar-2016.
+
 [24]	C. Rudin, C. Wang, and B. Coker, “The age of secrecy and unfairness in recidivism prediction,” arXiv [stat.AP], 02-Nov-2018.
+
 [25]	N. Sonnad, “US border agents hacked their ‘risk assessment’ system to recommend detention 100% of the time,” Quartz, 26-Jun-2018. [Online]. Available: https://qz.com/1314749/us-border-agents-hacked-their-risk-assessment-system-to-recommend-immigrant-detention-every-time/. [Accessed: 14-Dec-2019].
+
 [26]	J. Dastin, “Amazon scraps secret AI recruiting tool that showed bias against women,” Reuters, 10-Oct-2018.
+
 [27]	C. Rudin, “Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead,” arXiv [stat.ML], 26-Nov-2018.
+
 [28]	Andrés Grases, “Bill Gates on AI at Stanford University Symposium on March18, 2019,” 20-Mar-2019. [Online]. Available: https://www.youtube.com/watch?v=qC9KvgkpEk8. [Accessed: 20-Dec-2019].
+
 [29]	C. Clifford, “Elon Musk: ‘Mark my words — A.I. is far more dangerous than nukes,’” CNBC, 13-Mar-2018. [Online]. Available: https://www.cnbc.com/2018/03/13/elon-musk-at-sxsw-a-i-is-more-dangerous-than-nuclear-weapons.html. [Accessed: 20-Dec-2019].
+
 [30]	D. Blair, “AK-47 Kalashnikov: The firearm which has killed more people than any other,” The Daily Telegraph, 02-Jul-2015.
+
 [31]	M. Whittaker et al., AI now report 2018. AI Now Institute at New York University, 2018.
+
 [32]	F.-F. Li, Fostering a Human-Centered Approach to Artificial Intelligence (SSIR). Inside Social Innovation Podcast, Stanford Social Innovation Review.
+
 [33]	Z. Zhang et al., “Opening the black box of neural networks: methods for interpreting neural network models in clinical applications,” Ann Transl Med, vol. 6, no. 11, p. 216, Jun. 2018.
+
 [34]	D. Castelvecchi, “Can we open the black box of AI?,” Nature, vol. 538, no. 7623, pp. 20–23, Oct. 2016.
+
 [35]	“TensorFlow,” TensorFlow. [Online]. Available: https://www.tensorflow.org/. [Accessed: 19-Dec-2019].
+
 [36]	“Facebook Open Source.” [Online]. Available: https://opensource.facebook.com/. [Accessed: 19-Dec-2019].
+
 [37]	Ansgar Koene, Chris Clifton, Yohko Hatada, Helena Webb, Rashida Richardson, “A governance framework for algorithmic accountability and transparency,” European Parliament, Apr-2019. [Online]. Available: https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624262/EPRS_STU(2019)624262_EN.pdf. [Accessed: 18-Dec-2019].
+
 [38]	A. I. Hleg, “Ethics guidelines for trustworthy AI.” Retrieved from High-Level Expert Group on Artificial Intelligence(AI HLEG …, 2019.
+
 [39]	G. Ferreira, “Software Certification in Practice: How Are Standards Being Applied?,” in 2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C), 2017, pp. 100–102.
+
 [40]	P. Heck, M. Klabbers, and M. van Eekelen, “A software product certification model,” Software Quality Journal, vol. 18, no. 1, p. 37, Jun. 2009.
-
-
 
 ### Get in Touch
 
+To contribute, simple create a pull request on the Github page! :) 
 Feel free to get in touch anywhere, anytime !
 
-
 LinkedIn: https://www.linkedin.com/in/helmy47/
-
 Email: maged.helmy1@outlook.com
-
 Webpage-link: https://magedhelmy-0776.github.io/transparent-ai/
